@@ -1,0 +1,9 @@
+{
+    "name": "tuntsproject/app",
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+    
+}
